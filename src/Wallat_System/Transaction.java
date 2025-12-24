@@ -1,4 +1,7 @@
+package Wallat_System;
+
 import java.time.LocalDateTime;
+
 //transaction class--amount, type, balance, note
 public class Transaction
 {

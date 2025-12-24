@@ -1,3 +1,5 @@
+package Wallat_System;
+
 public class Main {
     public static void main(String[] args) {
         Wallet w = new Wallet("Sejal Nandanwar", 7800);
